@@ -1,6 +1,6 @@
 <!-- ================= BANNER ================= -->
 <p align="center">
-  <img src="/" alt="Ritesh Pandey Banner" />
+  <!-- <img src="/" alt="Ritesh Pandey Banner" /> -->
 </p>
 
 <h1 align="center">🚀 Ritesh Pandey</h1>

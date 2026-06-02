@@ -1,6 +1,6 @@
 <!-- ================= BANNER ================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ritshea/ritshea/main/banner.png" alt="Ritesh Pandey Banner" />
+  <img src="https://avatars.githubusercontent.com/u/235312953" alt="Ritesh Pandey Banner" />
 </p>
 
 <h1 align="center">🚀 Ritesh Pandey</h1>
